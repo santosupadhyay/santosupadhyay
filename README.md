@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **itsmr.santoshupadhyay18@gmail.com**
 
-- ⚡ Fun fact **I am not funny but I don't give a luck to anyone!**
+- ⚡ Fun fact **---- I am not funny but I don't give a luck to anyone!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
