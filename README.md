@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python!!**
 
-- 💬 Ask me about **C, C++, HTML, A bit about CSS**
+- 💬 Ask me about **C, C++, HTML, CSS and Python Basics**
 
 - 📫 How to reach me **itsmr.santoshupadhyay18@gmail.com**
 
