@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Santosh Upadhyay</h1>
-<h3 align="center">I am a CSE student from Far-Western University|| I am a Computer Enthusiastic!!</h3>
+<h1 align="center">Hello Coders👋, Santosh Upadhyay here!</h1>
+<h3 align="center">A CSE student from Far-Western University|| I am a Computer Enthusiastic from Dhangadhi!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santosupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="santosupadhyay" /> </p>
 
