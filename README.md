@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@santosupadhyay0" target="blank"><img src="https://img.shields.io/twitter/follow/@santosupadhyay0?logo=twitter&style=for-the-badge" alt="@santosupadhyay0" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio and webpages construction and design.**
+- 🔭 I’m currently working on **A Python Project**
 
 - 🌱 I’m currently learning **Python!!**
 
