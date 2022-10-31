@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Portfolio and webpages construction and design.**
 
-- 🌱 I’m currently learning **Bootstrap!**
+- 🌱 I’m currently learning **Python!!**
 
 - 💬 Ask me about **C, C++, HTML, A bit about CSS**
 
