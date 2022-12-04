@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/@santosupadhyay0" target="blank"><img src="https://img.shields.io/twitter/follow/@santosupadhyay0?logo=twitter&style=for-the-badge" alt="@santosupadhyay0" /></a> </p>
 
-- 🔭 I’m currently working on **A Python Project**
+- 🔭 I’m currently working on **Bus Ticket Reservation System**
 
-- 🌱 I’m currently learning **Python!!**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 💬 Ask me about **C, C++, HTML, CSS and Python Basics**
 
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **---- I am not funny but I don't give a luck to anyone!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can connect to me through:</h3>
 <p align="left">
 <a href="https://twitter.com/@santosupadhyay0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@santosupadhyay0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santosh-upadhyay-4b9941232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-upadhyay-4b9941232" height="30" width="40" /></a>
