@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@santosupadhyay0" target="blank"><img src="https://img.shields.io/twitter/follow/@santosupadhyay0?logo=twitter&style=for-the-badge" alt="@santosupadhyay0" /></a> </p>
 
-- 🔭 I’m currently working on **Bus Ticket Reservation System**
+- 🔭 I’m currently working on **Hospital Management System**
 
 - 🌱 I’m currently learning **Full Stack Development**
 
