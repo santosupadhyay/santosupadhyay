@@ -1,6 +1,19 @@
 
 <h1 align="center">Hello Coders👋, Santosh Upadhyay here!</h1>
-<h3 align="center">A CSE student from Far-Western University|| I am a Computer Enthusiastic from Dhangadhi!!</h3>
+<h3 align="center">Hi, I’m Santosh, a Computer Engineering Student by profession and a Coding Enthusiastic from the heart.
+
+I started my Computer Engineering journey 1 and half year ago when I got admitted in Far-Western University. And the journey till now has been really awesome.
+
+We can get connected on LinkedIn.
+Can be fun sometimes, If I am able to crack good joke through my storytelling :P
+
+Drop a text or feel free to connect at itsmr.santoshupadhyay18@gmail.com
+
+Would be happy to respond!
+
+Recently I have started learning Full-Stack Web Development . I am originally from Dhangadhi but currently a student of Far-Western University Computer Engineering faculty.
+
+Thankyou for visiting my profile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santosupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="santosupadhyay" /> </p>
 
