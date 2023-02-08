@@ -13,9 +13,9 @@ Would be happy to respond!
 
 Recently I have started learning Full-Stack Web Development . I am originally from Dhangadhi but currently a student of Far-Western University Computer Engineering faculty.
 
-Thankyou for visiting my profile.</h3>
+Thankyou for visiting my profile.
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=santosupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="santosupadhyay" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=santosupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="santosupadhyay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santosupadhyay" alt="santosupadhyay" /></a> </p>
 
@@ -48,4 +48,4 @@ Thankyou for visiting my profile.</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santosupadhyay&" alt="santosupadhyay" /></p>
 
- -->
+ 
