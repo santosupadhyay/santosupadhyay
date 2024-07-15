@@ -2,6 +2,8 @@
   
 
 ### <div align="center">Hi 👋, I'm Santosh Upadhyay 💟</div>  
+
+<br />
   
 
 <div align="center">I’m currently learning MERN Stack</div>  
@@ -57,7 +59,4 @@
 <img src="https://komarev.com/ghpvc/?username=santosupadhyay&&style=flat-square" align="center" />
 </div>  
 
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
