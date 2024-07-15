@@ -1,4 +1,4 @@
-<img src="https://santoshupadhyay.netlify.app/assets/Profile-BXvahyMY.jpeg" align="left" height="200" width="" />  
+
   
 
 ### <div align="center">Hi 👋, I'm Santosh Upadhyay 💟</div>  
